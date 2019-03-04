@@ -1,11 +1,13 @@
-Dette er andre versjon av min første fil.
+Dette er tredje versjon av min første fil.
 
 Jeg har også lagt til litt mer tekst.
 
 A
 B
-C
+V
+G
 D
 E
 F
 
+Og så litt til.
