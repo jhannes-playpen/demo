@@ -4,13 +4,15 @@ Jeg har også lagt til litt mer tekst.
 
 A
 B
-C
-C
-D
+1 C
+2 C
+3 D
 E
 F
 
 Og så litt til.
 
 Og så legger vi til litt mer.
+
+Og enda mer!
 
